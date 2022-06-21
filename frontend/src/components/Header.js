@@ -17,6 +17,7 @@ const Header = () => {
   }
 
   return (
+    
     <header>
       <Navbar bg='darkbl' variant='dark' expand='lg' collapseOnSelect>
         <Container>
@@ -66,6 +67,7 @@ const Header = () => {
         </Container>
       </Navbar>
     </header>
+
   )
 }
 
